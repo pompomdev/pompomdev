@@ -26,6 +26,10 @@
 
 🔑 This is a simple password manager made using HTML, CSS, and JavaScript. You can check it out on [GitHub](https://github.com/pompomdev/keyring).
 
+## 2auth
+
+🔏 This is a simple OTP authenticator made using Python. You can check it out on [GitHub](https://github.com/pompomdev/2auth).
+
 # Get in Touch
 
 You can reach out to me through the following platforms:
