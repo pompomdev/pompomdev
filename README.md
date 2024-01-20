@@ -2,7 +2,7 @@
 
 👋 Hello! My name is pom and I am a front-end developer with a passion for creating amazing visual experiences for users. With my experience in large-scale projects, my main goal is to build intuitive and responsive interfaces that improve people's lives.
 
-# Skills
+# Stacks
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white)
