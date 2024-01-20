@@ -17,6 +17,7 @@
 # Contributions
 
 ![pompomdev stats](https://github-readme-stats.vercel.app/api?username=pompomdev&show_icons=true&theme=dark)
+<br><br>
 [![pompomdev stats](https://github-readme-streak-stats.herokuapp.com/?user=pompomdev&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 # Featured Projects
