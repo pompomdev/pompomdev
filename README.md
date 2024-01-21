@@ -24,7 +24,7 @@
 
 ## Keyring Manager
 
-🔑 This is a simple password manager made using HTML, CSS, and JavaScript. You can check it out on [GitHub](https://github.com/pompomdev/keyring).
+🔑 This is a simple password manager made using HTML, CSS, and JavaScript. You can check it out on [GitHub](https://github.com/pompomdev/keyring) or by using the [Website](https://keyring.vercel.app/).
 
 ## 2auth
 
