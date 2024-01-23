@@ -44,7 +44,7 @@
 
 ## OpenPGP Demo
 
-OpenPGP Demo is a website that makes it easy to use OpenPGP and offers an easy interface for laypeople or beginners. You can check it out on [GitHub](https://github.com/pompomdev/openpgp).
+🔐 OpenPGP Demo is a website that makes it easy to use OpenPGP and offers an easy interface for laypeople or beginners. You can check it out on [GitHub](https://github.com/pompomdev/openpgp).
 
 ## 2auth
 
