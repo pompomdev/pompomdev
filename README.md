@@ -50,6 +50,10 @@
 
 🔏 This is a simple OTP authenticator made using Python. You can check it out on [GitHub](https://github.com/pompomdev/2auth).
 
+## RecoilStore
+
+**WARNING: CONTENT IN PORTUGUESE** 🎮 A simple game store made using HTML, CSS, JS, and the Firebase API. You can check it out on [GitHub](https://github.com/pompomdev/RecoilStore).
+
 # Get in Touch
 
 You can reach out to me through the following platforms:
