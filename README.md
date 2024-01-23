@@ -52,7 +52,9 @@
 
 ## RecoilStore
 
-**WARNING: CONTENT IN PORTUGUESE** 🎮 A simple game store made using HTML, CSS, JS, and the Firebase API. You can check it out on [GitHub](https://github.com/pompomdev/RecoilStore).
+**WARNING: CONTENT IN PORTUGUESE**
+<br>
+🎮 A simple game store made using HTML, CSS, JS, and the Firebase API. You can check it out on [GitHub](https://github.com/pompomdev/RecoilStore).
 
 # Get in Touch
 
