@@ -42,6 +42,10 @@
 
 🔑 This is a simple password manager made using HTML, CSS, and JavaScript. You can check it out on [GitHub](https://github.com/pompomdev/keyring) or by using the [Website](https://keyring.vercel.app/).
 
+## OpenPGP Demo
+
+OpenPGP Demo is a website that makes it easy to use OpenPGP. You can check it out on [GitHub](https://github.com/pompomdev/openpgp).
+
 ## 2auth
 
 🔏 This is a simple OTP authenticator made using Python. You can check it out on [GitHub](https://github.com/pompomdev/2auth).
